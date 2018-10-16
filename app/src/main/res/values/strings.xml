@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="recording_data">Recording data</string>
+    <string name="read_data">Read data</string>
+</resources>
